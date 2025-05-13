@@ -1,0 +1,7 @@
+# requirements.txt for the PDF to Vertical Image Converter GUI
+
+# For reading PDF files and rendering pages as images
+PyMuPDF
+
+# For image manipulation (creating a new image, pasting pages)
+Pillow
